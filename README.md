@@ -1,4 +1,5 @@
-https://github.com/andrepf-dev/jankenpon-lua-e-python/issues/1#issue-1758769762
+![game-lua](https://github.com/andrepf-dev/jankenpon-lua-e-python/assets/49399742/ef2322dc-9722-4848-a7f6-f03a43c7a0bd)
+
 
 # Jankenpon with Lua or Python
 This is my code in Lua and Python, the Jankenpon game.
