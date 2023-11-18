@@ -116,4 +116,9 @@ def jogar_pedra_tesoura_papel():
         resultado = determinar_resultado(jogador, computador)
         print(resultado)
         print("-----------------------------")
-        resposta
+        resposta = input("Deseja jogar novamente? (s/n): ").lower()
+        if resposta != "s":
+            break
+    print("Obrigado por jogar!")
+
+jogar_pedra_tesoura_papel()
